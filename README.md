@@ -3,7 +3,7 @@ MEN stack  REST API with authentication
 
 Test using **Postman**. Get it here: https://www.postman.com/
 
-I have used MongoDB Atlas, the cloud service they provide. Link: http://bit.ly/MongoDB__Atlas
+I have used MongoDB Atlas, the cloud service they provide.
 
 # dotenv setup should be
 databaseURI: **your mongoDB cluster credential**<br/>
